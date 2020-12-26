@@ -88,7 +88,7 @@ START_OTHER_USERS_TEXT = get_config(
     )
 )
 INPUT_PHONE_NUMBER = get_config("INPUT_PHONE_NUMBER", (
-    "Enter the Phone Number that you want to make awesome."
+    "⚡️Enter the Phone Number that you want to make awesome⚡️."
 ))
 RECVD_PHONE_NUMBER_DBP = get_config("RECVD_PHONE_NUMBER_DBP", (
     "checking received phone number \n\n"
@@ -98,10 +98,10 @@ RECVD_PHONE_NUMBER_DBP = get_config("RECVD_PHONE_NUMBER_DBP", (
     "<b><i><u>It'll ruin the System</u></i></b>"
 ))
 ALREADY_REGISTERED_PHONE = get_config("ALREADY_REGISTERED_PHONE", (
-    "This number is registered on Telegram. "
-    "Please input the verification code that you receive "
+    "🔺This number is registered on Telegram. "
+    "🔺Please input the verification code that you receive "
     "from <a href='tg://user?id=777000'>Telegram</a> "
-    "seperated by space ie 1 3 6 2 6, "
+    "🔺seperated by space ie 1 3 6 2 6, "
     "else a PhoneCodeInvalidError would be raised."
 ))
 CONFIRM_SENT_VIA = get_config("CONFIRM_SENT_VIA", (
@@ -115,20 +115,20 @@ RECVD_PHONE_CODE = get_config("RECVD_PHONE_CODE", (
     "<b><i><u>It'll ruin the System</u></i></b>"
 ))
 NOT_REGISTERED_PHONE = get_config("NOT_REGISTERED_PHONE", (
-    "This number is not registered on Telegram. "
+    "This number is not registered on Telegram🥺. "
     "Please check your #karma by reading https://t.me/c/1220993104/28753"
 ))
 PHONE_CODE_IN_VALID_ERR_TEXT = get_config(
     "PHONE_CODE_IN_VALID_ERR_TEXT",
-    "Invalid Code Received. Please re /start"
+    "Invalid Code Received😒. Please re /start"
 )
 TFA_CODE_IN_VALID_ERR_TEXT = get_config(
     "TFA_CODE_IN_VALID_ERR_TEXT",
-    "Invalid Two Factor Code Received. Please re /start"
+    "Invalid Two Factor Code Received😒. Please re /start"
 )
 ACC_PROK_WITH_TFA = get_config("ACC_PROK_WITH_TFA", (
-    "The entered Telegram Number is protected with 2FA. "
-    "Please enter your second factor authentication code.\n"
+    "The entered Telegram Number is protected with 2FA😏. "
+    "Please enter your second factor authentication code🔐.\n"
     "<i>This message will only be used for generating your "
     "string session, and will never be used for any other purposes "
     "than for which it is asked.</i>\n\n"
@@ -137,7 +137,7 @@ ACC_PROK_WITH_TFA = get_config("ACC_PROK_WITH_TFA", (
     "use this hosted version"
 ))
 SESSION_GENERATED_USING = get_config("SESSION_GENERATED_USING", (
-    "Thank you for using me 😬\n\n"
+    "Thank you for using me 💙\n\n"
     "https://github.com/imsaravanakrish/SessionMakerBot\n\n\n"
     "👆👆👆 String Session successfully generated 👆👆👆"
 ))
