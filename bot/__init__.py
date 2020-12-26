@@ -84,9 +84,7 @@ START_OTHER_USERS_TEXT = get_config(
     (
         "Hi. ☺️\n"
         "Thank you for using me 😬\n\n"
-        "This is an Open Source Project available on "
-        "https://github.com/SpEcHIDe/SessionMakerBot\n"
-        "ℹ️ Subscribe @SpEcHlDe if you 😍 using this bot❗️❣️"
+        "ℹ️ Subscribe @saravanakrish if you 😍 using this bot❗️❣️"
     )
 )
 INPUT_PHONE_NUMBER = get_config("INPUT_PHONE_NUMBER", (
