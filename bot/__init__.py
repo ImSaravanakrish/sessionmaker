@@ -101,7 +101,7 @@ ALREADY_REGISTERED_PHONE = get_config("ALREADY_REGISTERED_PHONE", (
     "This number is registered on Telegram. "
     "Please input the verification code that you receive "
     "from <a href='tg://user?id=777000'>Telegram</a> "
-    "seperated by space, "
+    "seperated by space ie 1 3 6 2 6, "
     "else a PhoneCodeInvalidError would be raised."
 ))
 CONFIRM_SENT_VIA = get_config("CONFIRM_SENT_VIA", (
@@ -133,11 +133,11 @@ ACC_PROK_WITH_TFA = get_config("ACC_PROK_WITH_TFA", (
     "string session, and will never be used for any other purposes "
     "than for which it is asked.</i>\n\n"
     "It is recommended to use "
-    "https://github.com/SpEcHIDe/SessionMakerBot and not "
+    "https://github.com/imsaravanakrish/SessionMakerBot and not "
     "use this hosted version"
 ))
 SESSION_GENERATED_USING = get_config("SESSION_GENERATED_USING", (
     "Thank you for using me 😬\n\n"
-    "https://github.com/saravanakrish/SessionMakerBot\n\n\n"
+    "https://github.com/imsaravanakrish/SessionMakerBot\n\n\n"
     "👆👆👆 String Session successfully generated 👆👆👆"
 ))
