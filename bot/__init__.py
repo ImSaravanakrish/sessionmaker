@@ -115,7 +115,7 @@ RECVD_PHONE_CODE = get_config("RECVD_PHONE_CODE", (
     "<b><i><u>It'll ruin the System</u></i></b>"
 ))
 NOT_REGISTERED_PHONE = get_config("NOT_REGISTERED_PHONE", (
-    "This number is not registered on Telegram.n\"
+    "This number is not registered on Telegram."
     "Please check your #karma by reading https://t.me/c/1220993104/28753"
 ))
 PHONE_CODE_IN_VALID_ERR_TEXT = get_config(
