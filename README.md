@@ -14,10 +14,12 @@
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 
-##Find me here 
-[![telegram badge](https://img.shields.io/badge/SARAVANAKRISH-30302f?style=flat&logo=telegram)](https://t.me/SARAVANAKRISH)
+## Find me here
 
+[![telegram badge](https://img.shields.io/badge/SARAVANAKRISH-30302f?style=flat&logo=telegram)](https://t.me/SARAVANAKRISH)
 
 ## Credits, and Thanks to
 
-* [SpEcHIDe](https://gitlab.com/SpEcHIDe) for his [Telethon String Session Generator](https://gitlab.com/spechide/GetUniBorgBot)
+[![telegram badge](https://img.shields.io/badge/SpEcHIDe-30302f?style=flat&logo=telegram)](https://t.me/SpEcHIDe)
+[![telegram badge](https://img.shields.io/badge/IMVETRI-30302f?style=flat&logo=telegram)](https://t.me/IMVETRI)
+
