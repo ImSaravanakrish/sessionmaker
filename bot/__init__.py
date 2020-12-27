@@ -115,20 +115,20 @@ RECVD_PHONE_CODE = get_config("RECVD_PHONE_CODE", (
     "<b><i><u>It'll ruin the System</u></i></b>"
 ))
 NOT_REGISTERED_PHONE = get_config("NOT_REGISTERED_PHONE", (
-    "This number is not registered on Telegram🥺. n\"
+    "This number is not registered on Telegram.n\"
     "Please check your #karma by reading https://t.me/c/1220993104/28753"
 ))
 PHONE_CODE_IN_VALID_ERR_TEXT = get_config(
     "PHONE_CODE_IN_VALID_ERR_TEXT",
-    "Invalid Code Received😒. Please re /start"
+    "Invalid Code Received. Please re /start"
 )
 TFA_CODE_IN_VALID_ERR_TEXT = get_config(
     "TFA_CODE_IN_VALID_ERR_TEXT",
-    "Invalid Two Factor Code Received😒. Please re /start"
+    "Invalid Two Factor Code Received. Please re /start"
 )
 ACC_PROK_WITH_TFA = get_config("ACC_PROK_WITH_TFA", (
-    "🔺The entered Telegram Number is protected with 2FA😏. \n"
-    "🔺Please enter your second factor authentication code🔐.\n"
+    "🔺The entered Telegram Number is protected with 2FA.\n"
+    "🔺Please enter your second factor authentication code.\n"
     "<i>This message will only be used for generating your "
     "string session, and will never be used for any other purposes "
     "than for which it is asked.</i>\n\n"
